@@ -1,0 +1,3 @@
+*.py text eol=auto encoding=UTF-8
+*.md text eol=auto encoding=UTF-8
+*.ipynb text eol=auto encoding=UTF-8
